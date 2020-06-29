@@ -1,0 +1,161 @@
+.first
+{
+    box-sizing: border-box;
+    background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("../image/bgimg.jpg");
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+}
+.hello
+{
+    font-weight: 700;
+    font-size: larger;
+}
+.name
+{
+    font-size: 300%;
+    font-weight: 900;
+}
+.about
+{
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.myimg
+{
+    box-sizing: border-box;
+    height: 500px;
+    width: 100%;
+    border: 7px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+}
+.intro
+{
+    text-align: left;
+}
+.left
+{
+    box-sizing: border-box;
+    font-weight: 700;
+    margin-right: 40px;
+}
+.right
+{
+    box-sizing: border-box;
+    font-weight: 700;
+    margin-left: 40px;
+    color: rgb(136, 128, 128);
+}
+.abtinfo
+{
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.heading
+{
+    font-size: 250%;
+    font-weight: 800;
+    font-style: italic;
+}
+hr.new1
+{
+    border: 5px solid rgb(62, 65, 62);
+    width: 100px;
+    margin-left: 0;
+    background-color: rgb(62, 65, 62);
+    margin-top: 0;
+}
+.proimg
+{
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+}
+.pro
+{
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px;
+}
+.procenter
+{
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+.proimgbg
+{
+    box-sizing: border-box;
+    background-color: rgb(228, 228, 228);
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+.achi
+{
+    width: 40%;
+    text-align: center;
+    border: 3px solid rgb(15, 153, 187);
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 600;
+    display: inline-block;
+    height: 80px;
+    float: left;
+    padding-top: 5%;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 25px;
+    height: 100px;
+}
+.prog
+{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: auto;
+}
+.clients
+{
+    box-sizing: border-box;
+    padding: 50px;
+}
+.medialink
+{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    padding-top: 8px;
+    border-radius: 5px;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.medialink:hover
+{
+    color: rgb(224, 224, 224);
+    text-decoration: none;
+    border: 2px solid rgb(224, 224, 224);;
+}
+.foothr
+{
+    width: 200px;
+    border: 2px solid white;
+    margin-bottom: 0;
+}
+.footer
+{
+    box-sizing: border-box;
+    border-radius: 5px;
+}
